@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Core Contributor at [Chamber](https://chamberfi.com/) ecosystem (the evolution of dHEDGE).
+
+*Feel free to reach out on any matter.*
+
 <!--
 **D-Ig/d-ig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
